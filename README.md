@@ -63,9 +63,9 @@ Here's a brief example of how the application works:
 
 1. Run the script:
 
-```sh
-python password_manager.py
-```
+    ```sh
+    python password_manager.py
+    ```
 2. Choose an option from the menu (e.g., create a password and add it to a new file).
 
 3. Follow the prompts to enter the required information (e.g., filename, number of uppercase letters, etc.).
