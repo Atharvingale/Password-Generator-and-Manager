@@ -26,7 +26,7 @@ This is a command-line Password Generator and Manager written in Python. The app
     ```sh
     pip install tabulate
     ```
-    ## Usage
+## Usage
 
 Run the script using Python:
 
