@@ -37,26 +37,26 @@ python password_manager.py
 ## Options
 1.  Create Password and Add to a New File
 
-- Prompts for password criteria (number of uppercase, lowercase, numbers, and symbols).
-- Generates a password and saves it to a new file.
+    - Prompts for password criteria (number of uppercase, lowercase, numbers, and symbols).
+    - Generates a password and saves it to a new file.
 
 2. Create Password and Add to an Existing File
 
-- Prompts for password criteria (number of uppercase, lowercase, numbers, and symbols).
-- Generates a password and adds it to an existing file.
+    - Prompts for password criteria (number of uppercase, lowercase, numbers, and symbols).
+    - Generates a password and adds it to an existing file.
 
 3. View Password File
 
-- Displays the content of a specified password file in a tabular format.
+    - Displays the content of a specified password file in a tabular format.
 4. Retrieve Password
 
-- Prompts for the application name and retrieves the associated password from the specified file.
+    - Prompts for the application name and retrieves the associated password from the specified file.
 5. Remove Password from Existing File
 
-- Prompts for a password to remove and deletes it from the specified file.
+    - Prompts for a password to remove and deletes it from the specified file.
 6. Exit
 
-- Exits the application.
+    - Exits the application.
 
 ## Example
 Here's a brief example of how the application works:
