@@ -30,9 +30,9 @@ This is a command-line Password Generator and Manager written in Python. The app
 
 Run the script using Python:
 
-```sh
-python password_manager.py
-```
+    ```sh
+    python password_manager.py
+    ```
 
 ## Options
 1.  Create Password and Add to a New File
