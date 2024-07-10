@@ -3,7 +3,6 @@ from tabulate import tabulate
 import string
 import random
 import os
-import os
 from datetime import datetime
 
 # Clear Terminal
