@@ -62,7 +62,7 @@ while True:
         
         filename = input("Enter the filename to be created:-") 
         password,app = pass_creator()
-        with open(filename,"w") as file:
+        with open(filename,"x") as file:
             file.write("app,password,length,date / time,\n")
             file.write(app+","+password+","+str(len(password))+","+str(formatted_datetime)+"\n")
             print(f"Password saved to {filename}")
